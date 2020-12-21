@@ -13,8 +13,8 @@ public class Calc {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(add(5,4));
-		System.out.println(sub(5,4));
-		System.out.println(prod(5,4));
+		System.out.println("Add="+add(5,4));
+		System.out.println("Sub="+sub(5,4));
+		System.out.println("Prod="+prod(5,4));
 	}
 }
