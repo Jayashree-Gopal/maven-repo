@@ -11,6 +11,6 @@ public class Calc {
 
 	public static void main(String[] args) {
 		System.out.println(add(5,4));
-		System.out.println(sub(5,4));
+		//System.out.println(sub(5,4));
 	}
 }
